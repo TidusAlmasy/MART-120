@@ -1,0 +1,2 @@
+I have no idea why my background works when the file is in its base location but not in the homework folder.
+The gif for my background is in the folder but wont show up on your end sadly
